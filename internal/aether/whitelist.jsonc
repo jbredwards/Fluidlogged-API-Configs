@@ -1,0 +1,20 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "aether:aether_teleporter",
+            "aether:altar",
+            "aether:ambrosium_torch",
+            "aether:highlands_ice_crystal",
+            "aether:holystone_rock",
+            "aether:icestone_cooler",
+            "aether:multiblock_dummy"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": "aether:incubator",
+        "boxes": {"min": 0, "max": 2},
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    }
+]
