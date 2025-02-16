@@ -9,6 +9,8 @@ Fluidlogged API downloads the configurations from this project and applies them 
 - Players unknowningly using a previous version of the maintained mod, thus having potentially broken configs that only support the latest version.
 - This project is looking to support hundereds (maybe even thousands) of mods. Allowing support for mods that are still maintained would mean that lots of time would be put into monitoring potentially hundereds or thousands of mods for updates, and keeping their respective community configs up-to-date. This is time that I simply don't have.
 
+---
+
 | Supported Mods | Downloads |
 | --- | --- |
 | [/dank/null/](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/danknull)  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dank-null/files/2962052) ⏐ |
