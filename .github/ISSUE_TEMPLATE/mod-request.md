@@ -7,7 +7,7 @@ assignees: jbredwards
 
 ---
 
-**READ BEFORE POSTING: *any mods that offer 1.12.2 support should add fluidlogged api support from their end. If the mod still offers 1.12.2 support, politely request its devs to add fluidlogged api support. Only mods that stopped 1.12.2 development (or mods that haven't been active for a long time) will be looked into.***
+**READ AND DELETE BEFORE POSTING: *Any mods that still offer 1.12.2 support should look into adding Fluidlogged API support from their end. Only mods that stopped 1.12.2 development (or mods that haven't been active for a long time) will be looked into.***
 
 **Enter the mod here, and the link to its homepage (required):**
 Add a link to the requested mod here.

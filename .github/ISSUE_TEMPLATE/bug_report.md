@@ -7,7 +7,7 @@ assignees: jbredwards
 
 ---
 
-**READ BEFORE POSTING: *Bugs with Fluidlogged API itself should be reported to its issue tracker ([linked here](https://github.com/jbredwards/Fluidlogged-API/issues)), rather than to this one.***
+**READ AND DELETE BEFORE POSTING: *Bugs with Fluidlogged API itself should be reported to its issue tracker ([linked here](https://github.com/jbredwards/Fluidlogged-API/issues)), rather than to this one.***
 
 **Describe the bug**
 A clear and concise description of what the bug is.
