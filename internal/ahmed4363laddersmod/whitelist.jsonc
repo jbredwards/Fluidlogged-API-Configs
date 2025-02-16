@@ -1,0 +1,28 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "ahmed4363laddersmod:ladderacacialog",
+            "ahmed4363laddersmod:ladderacaciaplanks",
+            "ahmed4363laddersmod:ladderbirchlog",
+            "ahmed4363laddersmod:ladderbirchoak",
+            "ahmed4363laddersmod:ladderdarkoakplank",
+            "ahmed4363laddersmod:ladderdarloaklog",
+            "ahmed4363laddersmod:ladderironblock",
+            "ahmed4363laddersmod:ladderjunglelog",
+            "ahmed4363laddersmod:ladderjungleplanks",
+            "ahmed4363laddersmod:ladderoakblock",
+            "ahmed4363laddersmod:ladderoaklog",
+            "ahmed4363laddersmod:laddersprucelog",
+            "ahmed4363laddersmod:ladderspruceplank",
+            "ahmed4363laddersmod:ladderstrippedacacia",
+            "ahmed4363laddersmod:ladderstrippedbirch",
+            "ahmed4363laddersmod:ladderstrippeddarkoak",
+            "ahmed4363laddersmod:ladderstrippedjungle",
+            "ahmed4363laddersmod:ladderstrippedoak",
+            "ahmed4363laddersmod:ladderstrippedspruce",
+            "ahmed4363laddersmod:rope"
+        ],
+        "canFluidFlow": true
+    }
+]
