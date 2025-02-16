@@ -1,5 +1,5 @@
 ---
-name: Mod Request
+name: Mod request
 about: Suggest a mod to be supported by this project.
 title: Support for "MOD_NAME"
 labels: Enhancement, Good First Issue
