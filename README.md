@@ -1,13 +1,13 @@
 ## Fluidlogged-API-Configs
-By default, Fluidlogged API only adds fluidlogging to [certain types of blocks](https://github.com/jbredwards/Fluidlogged-API#fluidloggable-blocks), and requires players to manually add other blocks (like pipes) to their whitelist. In most cases, the blocks from mods that should be fluidloggable are the same regardless of who you ask, which is where this project comes in. Fluidlogged API downloads the configurations from this project and applies them in-game (this functionality can be disabled via `fluidlogged_api/general.cfg` if desired). If there are any blocks here that you don't wish to be fluidloggable, you can either disable the community configs or remove the blocks by blacklisting them in your `fluidlogged_api/blacklist.cfg` file! It should be noted that all configurations in this project are designed to work with Fluidlogged API v3.0.0 or later, and might not work with previous versions of Fluidlogged API. If you would like to see more community configs, more supported mods, or would like to contribute your own configs for other people to use, create an issue or pull request!
+By default, Fluidlogged API only adds fluidlogging to [certain types of blocks](https://github.com/jbredwards/Fluidlogged-API#fluidloggable-blocks), and requires players to manually add other blocks (like pipes) to their whitelist. In most cases, the blocks from mods that should be fluidloggable are the same regardless of who you ask, which is where this project comes in.
+
+Fluidlogged API downloads the configurations from this project and applies them in-game (this functionality can be disabled via `fluidlogged_api/general.cfg` if desired). If there are any blocks here that you don't wish to be fluidloggable, you can either disable the community configs or remove the blocks by blacklisting them in your `fluidlogged_api/blacklist.cfg` file! It should be noted that all configurations in this project are designed to work with Fluidlogged API v3.0.0 or later, and might not work with previous versions of Fluidlogged API. If you would like to see more community configs, more supported mods, or would like to contribute your own configs for other people to use, create an issue or pull request!
 
 **Mods that still offer 1.12.2 support are not supported by this project, and should instead look into adding their own Fluidlogged API support**. This is because maintained mods might add/change/remove blocks at any given time, which poses a number of problems:
 - High risk of breaking community configs between updates.
 - Players having to wait for the community configs to be fixed for the latest version of the maintained mod.
 - Players unknowningly using a previous version of the maintained mod, thus having potentially broken configs that only support the latest version.
 - This project is looking to support hundereds (maybe even thousands) of mods. Allowing support for mods that are still maintained would mean that lots of time would be put into monitoring potentially hundereds or thousands of mods for updates, and keeping their respective community configs up-to-date. This is time that I simply don't have.
-
----
 
 | Supported Mods | Downloads |
 | --- | --- |
