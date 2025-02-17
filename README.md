@@ -74,6 +74,7 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [Ender IO](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/enderio) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ender-io/files/4674244) ⏐ [Modrinth](https://modrinth.com/mod/enderio/version/5.3.72) |
 | [Ender-Rift](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/enderrift) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ender-rift/files/2983035) ⏐ |
 | [Ender Storage](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/enderstorage) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8/files/2755787) ⏐ [Modrinth](https://modrinth.com/mod/ender-storage/version/2.4.6.137) |
+| [EnderTanks](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/endertanks) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/endertanks/files/2664673) ⏐ |
 | [Horizontal Glass Panes](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/hgp) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/horizontal-glass-panes/files/2536711) ⏐ |
 | [IGauntlet](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/igauntlet) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/igauntlet/files/2792298) ⏐ |
 | [Survivalist](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/survivalist) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/survivalist/files/2625075) ⏐ |
