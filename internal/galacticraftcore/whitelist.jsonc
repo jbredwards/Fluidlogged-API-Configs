@@ -1,0 +1,25 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "galacticraftcore:aluminum_wire",
+            "galacticraftcore:arclamp",
+            "galacticraftcore:fallen_meteor",
+            "galacticraftcore:fluid_pipe",
+            "galacticraftcore:fluid_tank",
+            "galacticraftcore:glowstone_torch",
+            "galacticraftcore:grating",
+            "galacticraftcore:parachest",
+            "galacticraftcore:space_glass_clear",
+            "galacticraftcore:space_glass_strong",
+            "galacticraftcore:space_glass_vanilla",
+            "galacticraftcore:treasure_chest",
+            "galacticraftcore:wall_gc"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": "galacticraftcore:block_multi",
+        "states": {"type": ["laser_turret", "nasa_workbench"]}
+    }
+]
