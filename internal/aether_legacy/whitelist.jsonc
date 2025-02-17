@@ -14,5 +14,9 @@
             "aether_legacy:treasure_chest"
         ],
         "canFluidFlow": true
+    },
+    {
+        "allowMissing": true,
+        "blockId": "aether_legacy:aetherion_chest"
     }
 ]
