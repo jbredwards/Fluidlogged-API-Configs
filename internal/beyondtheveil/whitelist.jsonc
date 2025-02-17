@@ -1,0 +1,53 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "beyondtheveil:barrel",
+            "beyondtheveil:city_mapper",
+            "beyondtheveil:curtain",
+            "beyondtheveil:damp_canopy",
+            "beyondtheveil:fume_spreader",
+            "beyondtheveil:idol",
+            "beyondtheveil:lamp",
+            "beyondtheveil:penitence_statue",
+            "beyondtheveil:sacrifice_statue",
+            "beyondtheveil:statue"
+        ]
+    },
+    {
+        "blockId": "beyondtheveil:damp_canopy_wood",
+        "boxes": {"min": 0, "max": 2},
+        "canFluidFlow": ["up", "south", "east", "west"],
+        "states": {"facing": "north"}
+    },
+    {
+        "blockId": "beyondtheveil:damp_canopy_wood",
+        "boxes": {"min": 0, "max": 2},
+        "canFluidFlow": ["up", "north", "east", "west"],
+        "states": {"facing": "south"}
+    },
+    {
+        "blockId": "beyondtheveil:damp_canopy_wood",
+        "boxes": {"min": 0, "max": 2},
+        "canFluidFlow": ["up", "north", "south", "west"],
+        "states": {"facing": "east"}
+    },
+    {
+        "blockId": "beyondtheveil:damp_canopy_wood",
+        "boxes": {"min": 0, "max": 2},
+        "canFluidFlow": ["up", "north", "south", "east"],
+        "states": {"facing": "west"}
+    },
+    {
+        "blockId": "beyondtheveil:gear_bench",
+        "boxes": {"min": 9, "max": 16},
+        "canFluidFlow": ["down", "north", "south", "east", "west"]
+    },
+    {
+        "blockId": [
+            "beyondtheveil:heart",
+            "beyondtheveil:lacrymatory"
+        ],
+        "canFluidFlow": true
+    }
+]
