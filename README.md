@@ -94,6 +94,7 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [Hopper Ducts](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/hopperducts) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/hopper-ducts/files/2454832) ⏐ |
 | [Horizontal Glass Panes](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/hgp) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/horizontal-glass-panes/files/2536711) ⏐ |
 | [IGauntlet](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/igauntlet) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/igauntlet/files/2792298) ⏐ |
+| [Industrial Craft](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/ic2) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/industrial-craft/files/3838713) ⏐ |
 | [Large Fluid Tank](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/fluidtank) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/largefluidtank/files/3366145) ⏐ |
 | [Survivalist](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/survivalist) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/survivalist/files/2625075) ⏐ |
 | [Telepad](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/danknull) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/telepad/files/2773932) ⏐ |
