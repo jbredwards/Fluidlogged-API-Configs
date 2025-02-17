@@ -1,0 +1,17 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "endreborn:e_end_bricks_wall",
+            "endreborn:e_purpur_wall",
+            "endreborn:entropy_user",
+            "endreborn:smooth_end_stone_wall"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": "endreborn:block_end_forge",
+        "boxes": {"min": 12, "max": 16},
+        "canFluidFlow": [ "down", "north", "south", "east", "west" ]
+    }
+]
