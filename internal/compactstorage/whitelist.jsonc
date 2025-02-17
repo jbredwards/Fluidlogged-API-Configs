@@ -1,0 +1,11 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "compactstorage:barrel",
+            "compactstorage:barrel_fluid",
+            "compactstorage:compactchest"
+        ],
+        "canFluidFlow": true
+    }
+]
