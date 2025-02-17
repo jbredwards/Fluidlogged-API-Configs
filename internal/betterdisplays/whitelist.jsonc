@@ -1,0 +1,14 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "betterdisplays:book_holder_acacia",
+            "betterdisplays:book_holder_birch",
+            "betterdisplays:book_holder_dark_oak",
+            "betterdisplays:book_holder_jungle",
+            "betterdisplays:book_holder_oak",
+            "betterdisplays:book_holder_spruce"
+        ],
+        "canFluidFlow": true
+    }
+]
