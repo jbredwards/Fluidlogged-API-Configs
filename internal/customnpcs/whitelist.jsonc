@@ -1,0 +1,18 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": "customnpcs:npccarpentybench",
+        "canFluidFlow": true
+    },
+    {
+        "blockId": "customnpcs:mailbox",
+        "boxes": {"min": 2, "max": 16},
+        "canFluidFlow": ["down", "north", "south", "east", "west"],
+        "states": {"type": 0}
+    },
+    {
+        "blockId": "customnpcs:mailbox",
+        "canFluidFlow": true,
+        "states": {"type": [1, 2]}
+    }
+]

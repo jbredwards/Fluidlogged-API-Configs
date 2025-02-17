@@ -1,0 +1,34 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "variedcommodities:banner",
+            "variedcommodities:barrel",
+            "variedcommodities:beam",
+            "variedcommodities:big_sign",
+            "variedcommodities:blood_block",
+            "variedcommodities:book",
+            "variedcommodities:carpentry_bench",
+            "variedcommodities:chair",
+            "variedcommodities:couch_wood",
+            "variedcommodities:couch_wool",
+            "variedcommodities:lamp",
+            "variedcommodities:lamp_unlit",
+            "variedcommodities:pedestal",
+            "variedcommodities:shelf",
+            "variedcommodities:sign",
+            "variedcommodities:stool",
+            "variedcommodities:tall_lamp",
+            "variedcommodities:tombstone",
+            "variedcommodities:trading_block",
+            "variedcommodities:wall_banner",
+            "variedcommodities:weapon_rack"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": "variedcommodities:table",
+        "boxes": {"min": 14, "max": 16},
+        "canFluidFlow": ["down", "north", "south", "east", "west"]
+    }
+]
