@@ -2,16 +2,16 @@
 [
     {
         "blockId": [
-            "astralsourcery:blockblackmarble",
-            "astralsourcery:blockmarble"
+            "astralsorcery:blockblackmarble",
+            "astralsorcery:blockmarble"
         ],
         "canFluidFlow": true,
         "states": {"marbletype": "pillar"}
     },
     {
         "blockId": [
-            "astralsourcery:blockblackmarble",
-            "astralsourcery:blockmarble"
+            "astralsorcery:blockblackmarble",
+            "astralsorcery:blockmarble"
         ],
         "boxes": {"min": 0, "max": 4},
         "canFluidFlow": ["up", "north", "south", "east", "west"],
@@ -19,20 +19,20 @@
     },
     {
         "blockId": [
-            "astralsourcery:blockblackmarble",
-            "astralsourcery:blockmarble"
+            "astralsorcery:blockblackmarble",
+            "astralsorcery:blockmarble"
         ],
         "boxes": {"min": 12, "max": 16},
         "canFluidFlow": ["down", "north", "south", "east", "west"],
         "states": {"marbletype": "pillar_top"}
     },
     {
-        "blockId": "astralsourcery:blockinfusedwood",
+        "blockId": "astralsorcery:blockinfusedwood",
         "canFluidFlow": true,
         "states": {"woodtype": ["column", "column_bottom", "column_top"]}
     },
     {
-        "blockId": "astralsourcery:blockmachine",
+        "blockId": "astralsorcery:blockmachine",
         "canFluidFlow": true,
         "states": {"machine": "grindstone"}
     }
