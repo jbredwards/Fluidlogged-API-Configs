@@ -77,6 +77,7 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [EnderTanks](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/endertanks) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/endertanks/files/2664673) ⏐ |
 | [Endorium (End Reborn)](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/endreborn) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/end-reborn/files/3006659) ⏐ |
 | [Engineer's Decor](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/engineersdecor) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/engineers-decor/files/3783239) ⏐ |
+| [Environmental Tech](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/environmentaltech) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/environmental-tech/files/2691536) ⏐ [Modrinth](https://modrinth.com/mod/environmental-tech/version/1.12.2-2.0.20.1) |
 | [Horizontal Glass Panes](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/hgp) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/horizontal-glass-panes/files/2536711) ⏐ |
 | [IGauntlet](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/igauntlet) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/igauntlet/files/2792298) ⏐ |
 | [Survivalist](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/survivalist) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/survivalist/files/2625075) ⏐ |
