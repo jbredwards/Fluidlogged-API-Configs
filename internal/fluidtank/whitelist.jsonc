@@ -1,0 +1,16 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "fluidtank:blocktank1",
+            "fluidtank:blocktank2",
+            "fluidtank:blocktank3",
+            "fluidtank:blocktank4",
+            "fluidtank:blocktank5",
+            "fluidtank:blocktank6",
+            "fluidtank:blocktank7",
+            "fluidtank:blocktankcreative"
+        ],
+        "canFluidFlow": true
+    }
+]

@@ -86,6 +86,7 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [Fancy Lamps](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/fancylamps) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fancy-lamps/files/2863411) ⏐ |
 | [Horizontal Glass Panes](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/hgp) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/horizontal-glass-panes/files/2536711) ⏐ |
 | [IGauntlet](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/igauntlet) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/igauntlet/files/2792298) ⏐ |
+| [Large Fluid Tank](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/fluidtank) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/largefluidtank/files/3366145) ⏐ |
 | [Survivalist](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/survivalist) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/survivalist/files/2625075) ⏐ |
 | [Telepad](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/danknull) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/telepad/files/2773932) ⏐ |
 | [The Betweenlands](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/thebetweenlands) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod/files/4479688) ⏐ |
