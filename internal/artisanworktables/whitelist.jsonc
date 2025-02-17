@@ -1,0 +1,19 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "artisanworktables:mechanical_toolbox",
+            "artisanworktables:toolbox",
+            "artisanworktables:worktable"
+        ]
+    },
+    {
+        "blockId": "artisanworktables:workshop",
+        "boxes": [{"min": 0, "max": 7}, {"min": 8, "max": 16}],
+        "canFluidFlow": ["north", "south", "east", "west"]
+    },
+    {
+        "blockId": "artisanworktables:workstation",
+        "boxes": {"min": 8, "max": 16}
+    }
+]
