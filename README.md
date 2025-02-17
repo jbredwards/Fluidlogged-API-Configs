@@ -84,6 +84,7 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [Extra Utilities](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/extrautils2) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/extra-utilities/files/2678374) ⏐ |
 | [Fairy Lights](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/fairylights) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fairy-lights/files/3068499) ⏐ |
 | [Fancy Lamps](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/fancylamps) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fancy-lamps/files/2863411) ⏐ |
+| [Flopper](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/flopper) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/flopper/files/2689287) ⏐ |
 | [Flux Networks](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/fluxnetworks) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/flux-networks/files/3178199) ⏐ |
 | [Forestry](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/forestry) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/forestry/files/6104316) ⏐ |
 | [Galacticraft Core](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/galacticraftcore) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/galacticraft-legacy/files/4671122) ⏐ [Modrinth](https://modrinth.com/mod/galacticraft-legacy/version/4.0.6) |
