@@ -1,0 +1,43 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": "fancylamps:arcane_gem",
+        "boxes": {"min": 0, "max": 1},
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    },
+    {
+        "blockId": [
+            "fancylamps:arcane_lamp",
+            "fancylamps:lantern_redstone",
+            "fancylamps:lantern_torch",
+            "fancylamps:obelisk_base",
+            "fancylamps:obelisk_stem",
+            "fancylamps:obelisk_tip",
+            "fancylamps:post"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": "fancylamps:pillar",
+        "boxes": [{"min": 0, "max": 2}, {"min": 14, "max": 16}],
+        "canFluidFlow": ["north", "south", "east", "west"],
+        "states": {"down": false, "up": false}
+    },
+    {
+        "blockId": "fancylamps:pillar",
+        "boxes": {"min": 14, "max": 16},
+        "canFluidFlow": ["down", "north", "south", "east", "west"],
+        "states": {"down": true, "up": false}
+    },
+    {
+        "blockId": "fancylamps:pillar",
+        "boxes": {"min": 0, "max": 2},
+        "canFluidFlow": ["up", "north", "south", "east", "west"],
+        "states": {"down": false, "up": true}
+    },
+    {
+        "blockId": "fancylamps:pillar",
+        "canFluidFlow": true,
+        "states": {"down": true, "up": true}
+    }
+]
