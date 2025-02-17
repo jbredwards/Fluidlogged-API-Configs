@@ -1,0 +1,17 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": "embersconstruct:bloomery",
+        "canFluidFlow": ["up", "north", "south", "east", "west"],
+        "states": {"top": "false"}
+    },
+    {
+        "blockId": "embersconstruct:bloomery",
+        "canFluidFlow": true,
+        "states": {"top": "true"}
+    },
+    {
+        "blockId": "embersconstruct:stamptable",
+        "canFluidFlow": ["down", "north", "south", "east", "west"]
+    }
+]
