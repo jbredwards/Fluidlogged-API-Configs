@@ -43,6 +43,7 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [Bewitchment (Legacy)](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/bewitchment) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bewitchment-legacy/files/3256343) ⏐ |
 | [Beyond The Veil](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/beyondtheveil) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/beyond-the-veil/files/3616140) ⏐ |
 | [BiblioCraft](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/bibliocraft) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bibliocraft/files/3647708) ⏐ |
+| [Blockcraftery](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/blockcraftery) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/blockcraftery/files/2716712) ⏐ |
 | [Decorative Ladders](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/ahmed4363laddersmod) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/decorative-ladders/files/2978098) ⏐ |
 | [Embers' Construct](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/embersconstruct) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/embersconstruct/files/3735109) ⏐ [Modrinth](https://modrinth.com/mod/embersconstruct/version/1.3.5) |
 | [IGauntlet](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/igauntlet) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/igauntlet/files/2792298) ⏐ |
