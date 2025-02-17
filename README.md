@@ -75,6 +75,7 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [Ender-Rift](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/enderrift) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ender-rift/files/2983035) ⏐ |
 | [Horizontal Glass Panes](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/hgp) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/horizontal-glass-panes/files/2536711) ⏐ |
 | [IGauntlet](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/igauntlet) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/igauntlet/files/2792298) ⏐ |
+| [Survivalist](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/survivalist) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/survivalist/files/2625075) ⏐ |
 | [Telepad](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/danknull) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/telepad/files/2773932) ⏐ |
 | [The Betweenlands](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/thebetweenlands) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod/files/4479688) ⏐ |
 | [The Weirding Gadget](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/weirdinggadget) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-weirding-gadget/files/2708729) ⏐ |
