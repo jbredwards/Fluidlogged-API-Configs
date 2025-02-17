@@ -85,6 +85,7 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [Fairy Lights](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/fairylights) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fairy-lights/files/3068499) ⏐ |
 | [Fancy Lamps](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/fancylamps) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fancy-lamps/files/2863411) ⏐ |
 | [Flux Networks](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/fluxnetworks) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/flux-networks/files/3178199) ⏐ |
+| [Forestry](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/forestry) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/forestry/files/6104316) ⏐ |
 | [Horizontal Glass Panes](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/hgp) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/horizontal-glass-panes/files/2536711) ⏐ |
 | [IGauntlet](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/igauntlet) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/igauntlet/files/2792298) ⏐ |
 | [Large Fluid Tank](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/fluidtank) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/largefluidtank/files/3366145) ⏐ |
