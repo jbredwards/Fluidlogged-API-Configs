@@ -83,6 +83,7 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [Survivalist](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/survivalist) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/survivalist/files/2625075) ⏐ |
 | [Telepad](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/danknull) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/telepad/files/2773932) ⏐ |
 | [The Betweenlands](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/thebetweenlands) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod/files/4479688) ⏐ |
+| [The Erebus](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/erebus) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-erebus/files/3211974) ⏐ |
 | [The Weirding Gadget](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/weirdinggadget) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-weirding-gadget/files/2708729) ⏐ |
 | [Varied Commodities](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/variedcommodities) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/varied-commodities/files/4466956) ⏐ |
 | [World Plus](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/worldplus) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/world-plus/files/2692400) ⏐ |
