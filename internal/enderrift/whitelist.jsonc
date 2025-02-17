@@ -1,0 +1,34 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "enderrift:broswer",
+            "enderrift:interface"
+        ],
+        "boxes": {"min": 0, "max": 4},
+        "states": {"facing": "up"}
+    },
+    {
+        "blockId": [
+            "enderrift:broswer",
+            "enderrift:interface"
+        ],
+        "boxes": {"min": 12, "max": 16},
+        "states": {"facing": "down"}
+    },
+    {
+        "blockId": [
+            "enderrift:broswer",
+            "enderrift:interface"
+        ],
+        "states": {"facing": ["north", "south", "east", "west"]}
+    },
+    {
+        "blockId": [
+            "enderrift:driver",
+            "enderrift:generator",
+            "enderrift:proxy"
+        ],
+        "canFluidFlow": true
+    }
+]
