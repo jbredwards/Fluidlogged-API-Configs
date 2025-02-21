@@ -154,5 +154,6 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [Woot](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/woot) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/woot/files/2712670) ⏐ |
 | [Wopper](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/wopper) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wopper/files/2456802) ⏐ |
 | [World Plus](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/worldplus) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/world-plus/files/2692400) ⏐ |
+| [XNet](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/xnet) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xnet/files/2745852) ⏐ [Modrinth](https://modrinth.com/mod/xnet/version/1.12-1.8.2) |
 | [XPTeleporters 2](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/danknull) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xpteleporters-2/files/2827714) ⏐ |
 | [Zenkorium Creatures](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/leshen) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/zenkorium-creatures/files/2874062) ⏐ |
