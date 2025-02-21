@@ -1,0 +1,17 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "projecte:alchemical_chest",
+            "projecte:condenser_mk1",
+            "projecte:condenser_mk2",
+            "projecte:dm_pedestal",
+            "projecte:interdiction_torch"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": "projecte:transmutation_table",
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    }
+]
