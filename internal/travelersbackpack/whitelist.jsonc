@@ -1,0 +1,13 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "travelersbackpack:sleeping_bag_bottom",
+            "travelersbackpack:sleeping_bag_top"
+        ],
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    },
+    {
+        "blockId": "travelersbackpack:travelers_backpack"
+    }
+]
