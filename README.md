@@ -117,6 +117,7 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [Natural Decor Mod](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/naturaldecormod) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nautral-decor-mod/files/3202095) ⏐ |
 | [Nether Chest](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/netherchest) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nether-chest/files/2655413) ⏐ |
 | [Nethercraft Classic](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/nethercraft) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nethercraft-classic/files/2827467) ⏐ |
+| [NetherEx](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/netherex) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/netherex/files/3374256) ⏐ |
 | [Survivalist](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/survivalist) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/survivalist/files/2625075) ⏐ |
 | [Telepad](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/danknull) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/telepad/files/2773932) ⏐ |
 | [The Betweenlands](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/thebetweenlands) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod/files/4479688) ⏐ |
