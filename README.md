@@ -149,6 +149,7 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [Uppers](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/uppers) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/uppers/files/2558337) ⏐ |
 | [Vampirism](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/vampirism) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire/files/2890062) ⏐ [Modrinth](https://modrinth.com/mod/vampirism/version/1.12.2-1.6.2) |
 | [Varied Commodities](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/variedcommodities) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/varied-commodities/files/4466956) ⏐ |
+| [Waystones](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/waystones) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/waystones/files/2859589) ⏐ |
 | [World Plus](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/worldplus) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/world-plus/files/2692400) ⏐ |
 | [XPTeleporters 2](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/danknull) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xpteleporters-2/files/2827714) ⏐ |
 | [Zenkorium Creatures](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/leshen) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/zenkorium-creatures/files/2874062) ⏐ |
