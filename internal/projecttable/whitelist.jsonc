@@ -1,0 +1,23 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": "projecttable:project_table",
+        "canFluidFlow": ["up", "down", "south", "east", "west"],
+        "states": {"facing": "north"}
+    },
+    {
+        "blockId": "projecttable:project_table",
+        "canFluidFlow": ["up", "down", "north", "east", "west"],
+        "states": {"facing": "south"}
+    },
+    {
+        "blockId": "projecttable:project_table",
+        "canFluidFlow": ["up", "down", "north", "south", "west"],
+        "states": {"facing": "east"}
+    },
+    {
+        "blockId": "projecttable:project_table",
+        "canFluidFlow": ["up", "down", "north", "south", "east"],
+        "states": {"facing": "west"}
+    }
+]
