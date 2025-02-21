@@ -1,0 +1,11 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "igauntlet:ash_pile",
+            "igauntlet:manipulator",
+            "igauntlet:tesseract"
+        ],
+        "canFluidFlow": true
+    }
+]
