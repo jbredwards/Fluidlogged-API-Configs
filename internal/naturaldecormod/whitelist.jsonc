@@ -1,0 +1,46 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "naturaldecormod:ceilinglamp",
+            "naturaldecormod:climbableropeladder",
+            "naturaldecormod:ironsuspensionblock",
+            "naturaldecormod:ironsuspensionblocktop",
+            "naturaldecormod:irontresselblock",
+            "naturaldecormod:irontresselblocktop",
+            "naturaldecormod:lamplight",
+            "naturaldecormod:outdoorchains",
+            "naturaldecormod:particleblockbarrier",
+            "naturaldecormod:particleblockenchantment",
+            "naturaldecormod:particleblockender",
+            "naturaldecormod:particleblockflame",
+            "naturaldecormod:particleblockglimmer",
+            "naturaldecormod:particleblockheart",
+            "naturaldecormod:particleblockmagic",
+            "naturaldecormod:particleblockmolten",
+            "naturaldecormod:particleblocknote",
+            "naturaldecormod:particleblocksmoke",
+            "naturaldecormod:particleblocksplash",
+            "naturaldecormod:particleblocksword",
+            "naturaldecormod:redsandstonedecorlarge",
+            "naturaldecormod:redsandstonedecormedium",
+            "naturaldecormod:redsandstonedecorsmall",
+            "naturaldecormod:rockdecorlarge",
+            "naturaldecormod:rockdecormedium",
+            "naturaldecormod:rockdecorsmall",
+            "naturaldecormod:ropeblock",
+            "naturaldecormod:sandstonedecorlarge",
+            "naturaldecormod:sandstonedecormedium",
+            "naturaldecormod:sandstonedecorsmall",
+            "naturaldecormod:strawbedding",
+            "naturaldecormod:topiarysteve",
+            "naturaldecormod:topiarysteveposed",
+            "naturaldecormod:topiaryzombie",
+            "naturaldecormod:woodensuspensionblock",
+            "naturaldecormod:woodensuspensionblocktop",
+            "naturaldecormod:woodentresselblock",
+            "naturaldecormod:woodentresselblocktop"
+        ],
+        "canFluidFlow": true
+    }
+]
