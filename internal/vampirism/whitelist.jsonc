@@ -1,0 +1,37 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "vampirism:altar_infusion",
+            "vampirism:altar_pillar",
+            "vampirism:altar_tip",
+            "vampirism:blood_container",
+            "vampirism:blood_pedestal",
+            "vampirism:church_altar",
+            "vampirism:garlic_beacon",
+            "vampirism:hunter_table",
+            "vampirism:totem_base",
+            "vampirism:totem_top",
+            "vampirism:weapon_table"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": "vampirism:altar_inspiration",
+        "boxes": {"min": 0, "max": 2},
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    },
+    {
+        "blockId": [
+            "vampirism:blood_grinder",
+            "vampirism:blood_potion_table"
+        ],
+        "boxes": {"min": 0, "max": 1},
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    },
+    {
+        "blockId": "vampirism:blood_sieve",
+        "boxes": {"min": 14, "max": 16},
+        "canFluidFlow": ["down", "north", "south", "east", "west"]
+    }
+]
