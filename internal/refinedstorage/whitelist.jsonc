@@ -1,0 +1,20 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "refinedstorage:cable",
+            "refinedstorage:constructor",
+            "refinedstorage:deconstructor",
+            "refinedstorage:exporter",
+            "refinedstorage:external_storage",
+            "refinedstorage:importer",
+            "refinedstorage:reader",
+            "refinedstorage:wireless_transmitter",
+            "refinedstorage:writer"
+        ]
+    },
+    {
+        "blockId": "refinedstorage:detector",
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    }
+]
