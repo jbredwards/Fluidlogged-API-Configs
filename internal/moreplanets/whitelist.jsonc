@@ -1,0 +1,39 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "moreplanets:alien_berry_chest",
+            "moreplanets:alien_chest",
+            "moreplanets:black_hole_storage",
+            "moreplanets:chalos_ancient_chest",
+            "moreplanets:chalos_treasure_chest",
+            "moreplanets:cheese_spore_chest",
+            "moreplanets:dark_energy_core",
+            "moreplanets:dark_energy_generator",
+            "moreplanets:desh_frame",
+            "moreplanets:diona_ancient_chest",
+            "moreplanets:diona_treasure_chest",
+            "moreplanets:fallen_koentus_meteor",
+            "moreplanets:infected_chest",
+            "moreplanets:infected_purlonite_ender_core",
+            "moreplanets:infected_purlonite_eye_core",
+            "moreplanets:infected_purlonite_segment",
+            "moreplanets:infected_purlonite_torch",
+            "moreplanets:multalic_crystal",
+            "moreplanets:nibiru_ancient_chest",
+            "moreplanets:nibiru_treasure_chest",
+            "moreplanets:shield_generator",
+            "moreplanets:shield_generator_dummy",
+            "moreplanets:zelius_egg"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": [
+            "moreplanets:alien_defender_beacon",
+            "moreplanets:space_warp_pad",
+            "moreplanets:vein_frame"
+        ],
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    }
+]
