@@ -105,7 +105,7 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [Iron Tanks](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/irontanks) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/iron-tanks/files/2811195) ⏐ |
 | [Item Collectors](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/itemcollectors) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/item-collectors/files/5272936) ⏐ [Modrinth](https://modrinth.com/mod/item-collectors/version/1.1.10-forge-mc1.12) |
 | [JAOPCAAdditions](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/jaopcaadditions) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jaopcaadditions/files/2558969) ⏐ |
-| [Journey Into the Light [JITL]](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/journey) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/journey-into-the-light-mod/files/3449157) ⏐ |
+| [Journey Into the Light](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/journey) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/journey-into-the-light-mod/files/3449157) ⏐ |
 | [Large Fluid Tank](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/fluidtank) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/largefluidtank/files/3366145) ⏐ |
 | [Survivalist](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/survivalist) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/survivalist/files/2625075) ⏐ |
 | [Telepad](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/danknull) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/telepad/files/2773932) ⏐ |
@@ -115,3 +115,4 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [Varied Commodities](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/variedcommodities) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/varied-commodities/files/4466956) ⏐ |
 | [World Plus](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/worldplus) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/world-plus/files/2692400) ⏐ |
 | [XPTeleporters 2](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/danknull) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xpteleporters-2/files/2827714) ⏐ |
+| [Zenkorium Creatures](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/leshen) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/zenkorium-creatures/files/2874062) ⏐ |
