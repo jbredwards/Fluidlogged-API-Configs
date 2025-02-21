@@ -131,6 +131,8 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [Psi](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/psi) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/psi/files/3085917) ⏐ [Modrinth](https://modrinth.com/mod/psi/version/r1.1-78.2) |
 | [QuantumStorage](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/quantumstorage) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/quantumstorage/files/2764828) ⏐ |
 | [Railcraft](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/railcraft) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/railcraft/files/3853491) ⏐ |
+| [Rats](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/rats) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rats/files/3028671) ⏐ [Modrinth](https://modrinth.com/mod/rats/version/3.2.13) |
+| [Rats: RatN Edition](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/rats) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rats-ratn-edition/files/all?page=1&pageSize=20) ⏐ |
 | [Survivalist](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/survivalist) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/survivalist/files/2625075) ⏐ |
 | [Telepad](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/danknull) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/telepad/files/2773932) ⏐ |
 | [The Betweenlands](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/thebetweenlands) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod/files/4479688) ⏐ |
