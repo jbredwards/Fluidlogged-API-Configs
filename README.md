@@ -99,6 +99,7 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [Industrial Craft](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/ic2) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/industrial-craft/files/3838713) ⏐ |
 | [Integrated Crafting](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/integrateddynamics) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-crafting/files/3010631) ⏐ |
 | [Integrated Dynamics](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/integrateddynamics) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/3159505) ⏐ |
+| [Integrated Terminals](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/integrateddynamics) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals/files/3010622) ⏐ |
 | [Large Fluid Tank](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/fluidtank) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/largefluidtank/files/3366145) ⏐ |
 | [Survivalist](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/survivalist) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/survivalist/files/2625075) ⏐ |
 | [Telepad](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/danknull) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/telepad/files/2773932) ⏐ |
