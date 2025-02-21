@@ -1,0 +1,20 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "quantumstorage:chest_diamond",
+            "quantumstorage:chest_emerald",
+            "quantumstorage:chest_gold",
+            "quantumstorage:chest_iron"
+        ],
+        "boxes": {"min": 0, "max": 2},
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    },
+    {
+        "blockId": [
+            "quantumstorage:trachcan",
+            "quantumstorage:trachcanfluid"
+        ],
+        "canFluidFlow": true
+    }
+]
