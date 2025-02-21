@@ -151,6 +151,7 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [Varied Commodities](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/variedcommodities) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/varied-commodities/files/4466956) ⏐ |
 | [Waystones](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/waystones) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/waystones/files/2859589) ⏐ |
 | [Wireless Chargers](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/wirelesschargers) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wireless-chargers/files/5294237) ⏐ [Modrinth](https://modrinth.com/mod/wireless-chargers/version/1.0.9a-forge-mc1.12) |
+| [Woot](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/woot) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/woot/files/2712670) ⏐ |
 | [World Plus](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/worldplus) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/world-plus/files/2692400) ⏐ |
 | [XPTeleporters 2](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/danknull) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xpteleporters-2/files/2827714) ⏐ |
 | [Zenkorium Creatures](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/leshen) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/zenkorium-creatures/files/2874062) ⏐ |
