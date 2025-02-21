@@ -1,0 +1,60 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "magneticraft:connector",
+            "magneticraft:conveyor_belt",
+            "magneticraft:crushing_table",
+            "magneticraft:electric_cable",
+            "magneticraft:electric_pole",
+            "magneticraft:electric_pole_transformer",
+            "magneticraft:energy_receiver",
+            "magneticraft:gasification_unit",
+            "magneticraft:heat_pipe",
+            "magneticraft:insulated_heat_pipe",
+            "magneticraft:iron_pipe",
+            "magneticraft:pneumatic_restriction_tube",
+            "magneticraft:pneumatic_tube",
+            "magneticraft:steam_boiler",
+            "magneticraft:tesla_tower",
+            "magneticraft:tube_light"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": "magneticraft:electric_engine",
+        "boxes": {"min": 12, "max": 16},
+        "canFluidFlow": ["down", "north", "south", "east", "west"],
+        "states": {"facing": "up"}
+    },
+    {
+        "blockId": "magneticraft:electric_engine",
+        "boxes": {"min": 0, "max": 4},
+        "canFluidFlow": ["up", "north", "south", "east", "west"],
+        "states": {"facing": "down"}
+    },
+    {
+        "blockId": "magneticraft:electric_engine",
+        "canFluidFlow": ["up", "down", "south", "east", "west"],
+        "states": {"facing": "north"}
+    },
+    {
+        "blockId": "magneticraft:electric_engine",
+        "canFluidFlow": ["up", "down", "north", "east", "west"],
+        "states": {"facing": "south"}
+    },
+    {
+        "blockId": "magneticraft:electric_engine",
+        "canFluidFlow": ["up", "down", "north", "south", "west"],
+        "states": {"facing": "east"}
+    },
+    {
+        "blockId": "magneticraft:electric_engine",
+        "canFluidFlow": ["up", "down", "north", "south", "east"],
+        "states": {"facing": "west"}
+    },
+    {
+        "blockId": "magneticraft:inserter",
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    }
+]

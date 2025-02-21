@@ -108,6 +108,7 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [JAOPCAAdditions](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/jaopcaadditions) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jaopcaadditions/files/2558969) ⏐ |
 | [Journey Into the Light](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/journey) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/journey-into-the-light-mod/files/3449157) ⏐ |
 | [Large Fluid Tank](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/fluidtank) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/largefluidtank/files/3366145) ⏐ |
+| [Magneticraft](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/magneticraft) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/magneticraft/files/3791484) ⏐ |
 | [Survivalist](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/survivalist) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/survivalist/files/2625075) ⏐ |
 | [Telepad](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/danknull) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/telepad/files/2773932) ⏐ |
 | [The Betweenlands](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/thebetweenlands) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod/files/4479688) ⏐ |
