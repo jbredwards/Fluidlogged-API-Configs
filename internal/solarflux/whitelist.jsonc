@@ -1,14 +1,6 @@
 // DO NOT EDIT!
 [
     {
-        "allowMissing": true,
-        "blockId": [
-            "solarflux:solar_pannel_alchemical",
-            "solarflux:solar_pannel_chaotic",
-            "solarflux:solar_pannel_draconic",
-            "solarflux:solar_pannel_infinity",
-            "solarflux:solar_pannel_neutronium",
-            "solarflux:solar_pannel_wyvern"
-        ]
+        "classId": "tk.zeitheron.solarflux.block.BlockBaseSolar"
     }
 ]
