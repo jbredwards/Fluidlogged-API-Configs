@@ -1,0 +1,11 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "worldplus:icicle_big",
+            "worldplus:icicle_small",
+            "worldplus:icicle_thin"
+        ],
+        "canFluidFlow": true
+    }
+]
