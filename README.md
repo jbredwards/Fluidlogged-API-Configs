@@ -104,6 +104,7 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [Integrated Tunnels](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/integrateddynamics) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/3159511) ⏐ |
 | [Iron Tanks](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/irontanks) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/iron-tanks/files/2811195) ⏐ |
 | [Item Collectors](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/itemcollectors) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/item-collectors/files/5272936) ⏐ [Modrinth](https://modrinth.com/mod/item-collectors/version/1.1.10-forge-mc1.12) |
+| [JAOPCAAdditions](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/jaopcaadditions) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jaopcaadditions/files/2558969) ⏐ |
 | [Large Fluid Tank](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/fluidtank) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/largefluidtank/files/3366145) ⏐ |
 | [Survivalist](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/survivalist) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/survivalist/files/2625075) ⏐ |
 | [Telepad](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/danknull) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/telepad/files/2773932) ⏐ |
