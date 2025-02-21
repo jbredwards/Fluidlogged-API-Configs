@@ -1,0 +1,8 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": "tombmanygraves:grave_block",
+        "boxes": {"min": 0, "max": 8},
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    }
+]
