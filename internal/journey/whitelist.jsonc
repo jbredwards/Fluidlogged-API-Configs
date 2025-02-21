@@ -1,0 +1,55 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "journey:ancient_obelisk",
+            "journey:bleedheartfruit",
+            "journey:bogwood_leaves",
+            "journey:burningleaves",
+            "journey:cloudaltar",
+            "journey:cloudialeaves",
+            "journey:corbaleaves",
+            "journey:depthsleaves",
+            "journey:earthennetherleaves",
+            "journey:eucadarkgreenleaves",
+            "journey:eucagoldleaves",
+            "journey:eucalightgreenleaves",
+            "journey:eucasilverleaves",
+            "journey:frozenleaves",
+            "journey:grindstone",
+            "journey:iceleaves",
+            "journey:icicle",
+            "journey:pot_base",
+            "journey:sizzlerwoodleaves",
+            "journey:slime",
+            "journey:summoningtable",
+            "journey:swamplamp",
+            "journey:terralight_lamp",
+            "journey:terranianleaves",
+            "journey:trophy",
+            "journey:trophyblaze",
+            "journey:trophycor",
+            "journey:trophyeudor",
+            "journey:trophylogger",
+            "journey:trophynetherbeast",
+            "journey:trophyroc",
+            "journey:trophyscale",
+            "journey:trophysentry",
+            "journey:trophysoul",
+            "journey:trophystalk",
+            "journey:trophyterra",
+            "journey:trophywitherbeast",
+            "journey:witherwoodleaves"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": [
+            "journey:corbaportalframe",
+            "journey:depthsportalframe",
+            "journey:senterianportalframe"
+        ],
+        "boxes": {"min": 0, "max": 13},
+        "canFluidFlow": ["up", "north", "south", "east", "west"]
+    }
+]
