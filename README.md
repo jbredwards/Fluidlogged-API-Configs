@@ -127,6 +127,7 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [Project Red - Exploration](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/projectred-exploration) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/project-red-exploration/files/2745551) ⏐ |
 | [Project Table](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/projecttable) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/project-table/files/2740888) ⏐ |
 | [ProjectE](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/projecte) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/projecte/files/2702991) ⏐ |
+| [Psi](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/psi) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/psi/files/3085917) ⏐ [Modrinth](https://modrinth.com/mod/psi/version/r1.1-78.2) |
 | [Survivalist](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/survivalist) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/survivalist/files/2625075) ⏐ |
 | [Telepad](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/danknull) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/telepad/files/2773932) ⏐ |
 | [The Betweenlands](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/thebetweenlands) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod/files/4479688) ⏐ |
