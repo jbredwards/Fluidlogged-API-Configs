@@ -1,0 +1,11 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "trashcansreborn:trashcan",
+            "trashcansreborn:trashcanfluid"
+        ],
+        "boxes": {"min": 13, "max": 16},
+        "canFluidFlow": ["down", "north", "south", "east", "west"]
+    }
+]

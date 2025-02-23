@@ -8,7 +8,7 @@ Fluidlogged API downloads the configuration files from this project and applies 
 #### Mods that still offer 1.12.2 support are not supported by this project, and should instead look into adding their own Fluidlogged API support. This is because maintained mods might add/change/remove blocks at any given time, which poses a number of problems:
 - High risk of breaking community configs between mod updates.
 - Players having to wait for community configs to be fixed for the latest version of the maintained mod.
-- Mod developers wanting to add their own native Fluidlogged API support, and having to work around existing community configs.
+- Mod developers wanting to add their own native Fluidlogged API support, and having to deal with existing community configs.
 - Players having to keep up with updates for the maintained mod, to avoid having community configs break due to them auto-updating.
 - This project is looking to support hundereds (maybe even thousands) of mods. Allowing support for mods that are still maintained would mean that lots of time would be put into monitoring potentially hundereds or thousands of mods for updates, and keeping their respective community configs up-to-date. This is time that I simply don't have.
 
@@ -93,6 +93,7 @@ Fluidlogged API downloads the configuration files from this project and applies 
 | [Forestry](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/forestry) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/forestry/files/6104316) ⏐ |
 | [Galacticraft Core](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/galacticraftcore) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/galacticraft-legacy/files/4671122) ⏐ [Modrinth](https://modrinth.com/mod/galacticraft-legacy/version/4.0.6) |
 | [Galacticraft Planets](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/galacticraftplanets) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/galacticraft-legacy/files/4671122) ⏐ [Modrinth](https://modrinth.com/mod/galacticraft-legacy/version/4.0.6) |
+| [Garbage Bins](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/trashcansreborn) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/trashcans-reborn/files/2675062) ⏐ |
 | [Gas Conduits](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/enderio) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gas-conduits/files/4674242) ⏐ |
 | [Gauges and Switches](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/rsgauges) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches/files/3907346) ⏐ |
 | [Growthcraft Apples](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/grothcraft_apples) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/growthcraft-community-edition/files/5172498) ⏐ |
