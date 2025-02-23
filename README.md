@@ -13,7 +13,7 @@ Fluidlogged API downloads the configurations from this project and applies them 
 
 ---
 
-| Supported Mods | Downloads |
+| Currently Supported Mods | Downloads |
 | --- | --- |
 | [/dank/null/](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/danknull)  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dank-null/files/2962052) ⏐ |
 | [/dank/null/no_RCE/](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/danknull) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dank-null-no_rce/files/all?version=1.12.2) ⏐ [Modrinth](https://modrinth.com/mod/danknull-rce/versions?g=1.12.2) |
