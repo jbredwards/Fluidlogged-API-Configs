@@ -6,9 +6,9 @@ Fluidlogged API downloads the configuration files from this project and applies 
 ---
 
 #### Mods that still offer 1.12.2 support are not supported by this project, and should instead look into adding their own Fluidlogged API support. This is because maintained mods might add/change/remove blocks at any given time, which poses a number of problems:
-- High risk of breaking community configs between updates.
+- High risk of breaking community configs between mod updates.
 - Players having to wait for the community configs to be fixed for the latest version of the maintained mod.
-- Players unknowningly using a previous version of the maintained mod, thus having potentially broken configs that only support the latest version.
+- Players having to keep up with updates for the maintained mod, to avoid having community configs break due to them auto-updating.
 - This project is looking to support hundereds (maybe even thousands) of mods. Allowing support for mods that are still maintained would mean that lots of time would be put into monitoring potentially hundereds or thousands of mods for updates, and keeping their respective community configs up-to-date. This is time that I simply don't have.
 
 ---
