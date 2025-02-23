@@ -145,7 +145,7 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [Simple Trophies](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/simple_trophies) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-trophies/files/2863053) ⏐ |
 | [Solar Flux Reborn](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/solarflux) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn/files/3050838) ⏐ [Modrinth](https://modrinth.com/mod/solar-flux-reborn/version/12.4.11) |
 | [Survivalist](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/survivalist) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/survivalist/files/2625075) ⏐ |
-| [Telepad](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/danknull) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/telepad/files/2773932) ⏐ |
+| [Telepad](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/telepads) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/telepad/files/2773932) ⏐ |
 | [The Betweenlands](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/thebetweenlands) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod/files/4479688) ⏐ |
 | [The Erebus](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/erebus) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-erebus/files/3211974) ⏐ |
 | [The Weirding Gadget](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/weirdinggadget) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-weirding-gadget/files/2708729) ⏐ |
