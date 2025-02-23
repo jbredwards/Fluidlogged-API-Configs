@@ -149,6 +149,7 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [Telepad](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/telepads) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/telepad/files/2773932) ⏐ |
 | [The Betweenlands](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/thebetweenlands) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod/files/4479688) ⏐ |
 | [The Erebus](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/erebus) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-erebus/files/3211974) ⏐ |
+| [The Jam Machine](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/jammachine) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-jam-machine/files/2548512) ⏐ |
 | [The Weirding Gadget](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/weirdinggadget) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-weirding-gadget/files/2708729) ⏐ |
 | [Thermal Dynamics](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/thermaldynamics) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics/files/2920505) ⏐ |
 | [Thermal Expansion](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/thermalexpansion) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion/files/2926431) ⏐ |
