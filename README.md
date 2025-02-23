@@ -168,4 +168,6 @@ Fluidlogged API downloads the configurations from this project and applies them 
 | [World Plus](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/worldplus) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/world-plus/files/2692400) ⏐ |
 | [XNet](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/xnet) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xnet/files/2745852) ⏐ [Modrinth](https://modrinth.com/mod/xnet/version/1.12-1.8.2) |
 | [XPTeleporters 2](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/xpt) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xpteleporters-2/files/2827714) ⏐ |
+| [YNet [XNet Fork]](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/xnet) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ynet-an-xnet-fork/files/all?page=1&pageSize=20&version=1.12.2) ⏐ |
+| [YNot](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/xnet) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ynot/files/2708030) ⏐ |
 | [Zenkorium Creatures](https://github.com/jbredwards/Fluidlogged-API-Configs/tree/1.12.2/internal/leshen) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/zenkorium-creatures/files/2874062) ⏐ |
