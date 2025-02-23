@@ -1,12 +1,7 @@
 // DO NOT EDIT!
 [
     {
-        "blockId": [
-            "endreborn:e_end_bricks_wall",
-            "endreborn:e_purpur_wall",
-            "endreborn:entropy_user",
-            "endreborn:smooth_end_stone_wall"
-        ],
+        "blockId": "endreborn:entropy_user",
         "canFluidFlow": true
     },
     {

@@ -3,10 +3,7 @@
     {
         "blockId": [
             "betternether:block_eyeball_small",
-            "betternether:bone_wall",
             "betternether:chest_of_drawers",
-            "betternether:cincinnasite_wall",
-            "betternether:nether_brick_wall",
             "betternether:smoker"
         ]
     }

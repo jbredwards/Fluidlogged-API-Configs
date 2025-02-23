@@ -2,11 +2,6 @@
 [
     {
         "allowMissing": true,
-        "classId": "thelm.jaopca.additions.block.BlockWallBase",
-        "canFluidFlow": true
-    },
-    {
-        "allowMissing": true,
         "classId": "thelm.jaopca.additions.block.BlockSlabBase",
         "canFluidFlow": ["up", "north", "south", "east", "west"],
         "states": {"half": "bottom"}

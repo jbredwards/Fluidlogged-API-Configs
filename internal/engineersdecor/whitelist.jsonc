@@ -2,13 +2,9 @@
 [
     {
         "blockId": [
-            "engineersdecor:clinker_brick_wall",
-            "engineersdecor:concrete_wall",
-            "engineersdecor:gas_concrete_wall",
             "engineersdecor:iron_floor_edge_light",
             "engineersdecor:iron_inset_light",
             "engineersdecor:factory_hopper",
-            "engineersdecor:rebar_concrete_wall",
             "engineersdecor:sign_caution",
             "engineersdecor:sign_danger",
             "engineersdecor:sign_exit",
@@ -21,11 +17,9 @@
             "engineersdecor:sign_magichazard",
             "engineersdecor:sign_magneticfield",
             "engineersdecor:sign_radioactive",
-            "engineersdecor:slag_brick_wall",
             "engineersdecor:steel_double_t_support",
             "engineersdecor:steel_floor_grating",
             "engineersdecor:steel_framed_window",
-            "engineersdecor:steel_mech_fence",
             "engineersdecor:steel_mech_fence_gate",
             "engineersdecor:steel_table",
             "engineersdecor:straight_pipe_valve",

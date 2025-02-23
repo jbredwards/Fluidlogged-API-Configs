@@ -60,20 +60,8 @@
             "erebus:silo_tank",
             "erebus:tarantula_egg",
             "erebus:umber_golem_statue",
-            "erebus:wall_amber_bricks",
-            "erebus:wall_amber",
             "erebus:wall_plants_cultivated",
-            "erebus:wall_plants",
-            "erebus:wall_umbercobble_mossy",
-            "erebus:wall_umbercobble_webbed",
-            "erebus:wall_umbercobble",
-            "erebus:wall_umberpaver_mossy",
-            "erebus:wall_umberpaver_webbed",
-            "erebus:wall_umberpaver",
-            "erebus:wall_umberstone_bricks",
-            "erebus:wall_umberstone",
-            "erebus:wall_umbertile_smooth_small",
-            "erebus:wall_umbertile_smooth"
+            "erebus:wall_plants"
         ],
         "canFluidFlow": true
     },

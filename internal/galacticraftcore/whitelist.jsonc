@@ -13,8 +13,7 @@
             "galacticraftcore:space_glass_clear",
             "galacticraftcore:space_glass_strong",
             "galacticraftcore:space_glass_vanilla",
-            "galacticraftcore:treasure_chest",
-            "galacticraftcore:wall_gc"
+            "galacticraftcore:treasure_chest"
         ],
         "canFluidFlow": true
     },
