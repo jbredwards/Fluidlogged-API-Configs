@@ -11,8 +11,11 @@
             "galacticraftcore:grating",
             "galacticraftcore:parachest",
             "galacticraftcore:space_glass_clear",
+            "galacticraftcore:space_glass_clear_tin",
             "galacticraftcore:space_glass_strong",
+            "galacticraftcore:space_glass_strong_tin",
             "galacticraftcore:space_glass_vanilla",
+            "galacticraftcore:space_glass_vanilla_tin",
             "galacticraftcore:treasure_chest"
         ],
         "canFluidFlow": true
