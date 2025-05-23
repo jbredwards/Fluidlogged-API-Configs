@@ -1,0 +1,103 @@
+// DO NOT EDIT!
+[
+        {
+        "blockId": [
+            "thaumcraft:crystal_aer",
+            "thaumcraft:crystal_ignis",
+            "thaumcraft:crystal_aqua",
+            "thaumcraft:crystal_terra",
+            "thaumcraft:crystal_ordo",
+            "thaumcraft:crystal_perditio",
+            "thaumcraft:crystal_vitium",
+            "thaumcraft:table_wood",
+            "thaumcraft:table_stone",
+            "thaumcraft:pedestal_arcane",
+            "thaumcraft:pedestal_ancient",
+            "thaumcraft:pedestal_eldritch",
+            "thaumcraft:pillar_arcane",
+            "thaumcraft:pillar_ancient",
+            "thaumcraft:pillar_eldritch",
+            "thaumcraft:banner_white",
+            "thaumcraft:banner_orange",
+            "thaumcraft:banner_magenta",
+            "thaumcraft:banner_lightblue",
+            "thaumcraft:banner_yellow",
+            "thaumcraft:banner_lime",
+            "thaumcraft:banner_pink",
+            "thaumcraft:banner_gray",
+            "thaumcraft:banner_silver",
+            "thaumcraft:banner_cyan",
+            "thaumcraft:banner_purple",
+            "thaumcraft:banner_blue",
+            "thaumcraft:banner_brown",
+            "thaumcraft:banner_green",
+            "thaumcraft:banner_red",
+            "thaumcraft:banner_black",
+            "thaumcraft:banner_crimson_cult",
+            "thaumcraft:inlay",
+            "thaumcraft:arcane_workbench_charger",
+            "thaumcraft:arcane_ear",
+            "thaumcraft:arcane_ear_toggle",
+            "thaumcraft:lamp_arcane",
+            "thaumcraft:lamp_fertility",
+            "thaumcraft:lamp_growth",
+            "thaumcraft:centrifuge",
+            "thaumcraft:bellows",
+            "thaumcraft:smelter_aux",
+            "thaumcraft:smelter_vent",
+            "thaumcraft:alembic",
+            "thaumcraft:hungry_chest",
+            "thaumcraft:tube",
+            "thaumcraft:tube_valve",
+            "thaumcraft:tube_restrict",
+            "thaumcraft:tube_oneway",
+            "thaumcraft:tube_filter",
+            "thaumcraft:tube_buffer",
+            "thaumcraft:jar_normal",
+            "thaumcraft:jar_void",
+            "thaumcraft:jar_brain",
+            "thaumcraft:infusion_matrix",
+            "thaumcraft:everfull_urn",
+            "thaumcraft:brain_box",
+            "thaumcraft:thaumatorium",
+            "thaumcraft:mirror",
+            "thaumcraft:mirror_essentia",
+            "thaumcraft:essentia_input",
+            "thaumcraft:essentia_output",
+            "thaumcraft:redstone_relay",
+            "thaumcraft:stabilizer",
+            "thaumcraft:vis_generator",
+            "thaumcraft:condenser",
+            "thaumcraft:condenser_lattice",
+            "thaumcraft:condenser_lattice_dirty",
+            "thaumcraft:void_siphon",
+            "thaumcraft:golem_builder",
+            "thaumcraft:taint_fibre",
+            "thaumcraft:taint_feature"
+        ]
+    },
+    {
+        "blockId": [
+            "thaumcraft:loot_crate_common",
+            "thaumcraft:loot_crate_uncommon",
+            "thaumcraft:loot_crate_rare",
+            "thaumcraft:loot_urn_common",
+            "thaumcraft:loot_urn_uncommon",
+            "thaumcraft:loot_urn_rare"
+        ],
+        "canFluidFlow": true
+    },
+    {
+        "blockId": [
+            "thaumcraft:pattern_crafter",
+            "thaumcraft:research_table"
+        ],
+        "canFluidFlow": ["north", "south", "east", "west", "down"]
+    },
+    {
+        "blockId": [
+            "thaumcraft:recharge_pedestal"
+        ],
+        "canFluidFlow": ["north", "south", "east", "west", "up"]
+    }
+]
