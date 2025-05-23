@@ -1,6 +1,7 @@
 // DO NOT EDIT!
 [
     {
+        "allowMissing": true,
         "blockId": [
             "appliedenergistics2:cable_bus",
             "appliedenergistics2:charger",
